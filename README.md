@@ -1,4 +1,4 @@
-# Environment-Sensing-Node 
+# LoRaWAN Environmental Sensor Live | Google sheets Helium Integration Tutorial | DIY helium Miner
 
 Video tutorial : [https://youtu.be/ULMnPckZp1M](https://www.youtube.com/watch?v=M5VGos3YTpI&list=LL&index=2)
 
